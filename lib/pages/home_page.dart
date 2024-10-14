@@ -10,10 +10,10 @@ class HomePage extends StatelessWidget {
         child: ListView(
           children: [
             ListTile(
-              title: Text('Sejarah Dunia Yang Disembunyikan'),
+              title: Text("Harry Potter and the Sorcerer's Stone"),
               trailing: ElevatedButton(
                 onPressed: () {
-                  Navigator.pushNamed(context, '/detail', arguments: 'Sejarah Dunia Yang Disembunyikan');
+                  Navigator.pushNamed(context, '/detail', arguments: "Harry Potter and the Sorcerer's Stone");
                 },
                 child: Text('Detail Buku'),
               ),

@@ -16,7 +16,7 @@ class DetailPage extends StatelessWidget {
       deskripsi = 'Kisah seorang anak yatim piatu, Harry Potter, '
           'yang menemukan bahwa ia adalah penyihir dan mendaftar di Hogwarts School of Witchcraft and Wizardry, '
           'di mana ia belajar tentang sihir dan persahabatan.';
-      imageUrl = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZc51kQHhf2Dn1y8ENa79gATgN4RTpmL76GJnxwRZOuSiDzl3KxoNv8WQl_MorvNs-VQ&usqp=CAU';
+      imageUrl = 'https://www.google.com/search?sca_esv=7efca204112e8f07&rlz=1C1ONGR_enID1057ID1057&sxsrf=ADLYWIK6LpsxHiuNLBN-bjJL_hZTWG2kag:1728881634955&q=Harry+Potter+dan+Relikui+Kematian&stick=H4sIAAAAAAAAAONgFuLQz9U3MDGqyFDiBLGMk7Kzy7SkspOt9JPy87P1E0tLMvKLrEDsYoX8vJzKRayKHolFRZUKAfklJalFCimJeQpBqTmZ2aWZCt6puYklmYl5AKE8VA9XAAAA&sa=X&ved=2ahUKEwjwgdf9iY2JAxVz1zgGHfN8GqcQ9OUBegQIHhAH';
     }
 
     return Scaffold(
